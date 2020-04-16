@@ -1,0 +1,4 @@
+snakeviz==2.0.1
+vprof==0.38
+memory-profiler==0.57.0
+pycallgraph2==1.1.3
